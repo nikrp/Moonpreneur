@@ -1,4 +1,4 @@
-int buzzerPin = 8;
+int buzzerPin = 3;
 int tempo = 200;
 char notes[] = "eeeeeeegcde fffffeeeeddedg";
 int duration[] = {1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2};
